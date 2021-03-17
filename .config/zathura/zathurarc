@@ -1,0 +1,7 @@
+unmap j
+unmap k
+unmap N
+unmap E
+map N navigate next
+map E navigate previous
+
